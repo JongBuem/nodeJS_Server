@@ -7,4 +7,6 @@ app.get('/',(req, res)=>{
     res.end('My JB\n');
 })
 
-app.listen(8080)
+app.listen(8080,()=>{
+    console.log("start")
+})
