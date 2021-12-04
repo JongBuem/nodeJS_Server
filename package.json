@@ -1,14 +1,11 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm install"
-  },
+  "name": "nodeJS_Server",
+  "description": "Simple Hello World Node.js sample for Azure App Service",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
   "author": "Microsoft",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1"
+  "scripts": {
+      "start": "node index.js"
   }
 }
