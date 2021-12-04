@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm install&& node index.js"
+    "test": "npm install"
   },
   "author": "Microsoft",
   "license": "ISC",
