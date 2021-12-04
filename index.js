@@ -8,5 +8,5 @@ app.get('/',(req, res)=>{
 })
 
 app.listen(8080,()=>{
-    console.log("start")
+    console.log("starting")
 })
